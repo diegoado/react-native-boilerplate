@@ -1,2 +1,2 @@
 # react-native-boilerplate
-Base React Native Project Setup 2
+Base React Native Project Setup
